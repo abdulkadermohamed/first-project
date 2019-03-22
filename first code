@@ -1,0 +1,13 @@
+myint=9
+print(myint)
+
+myfloat= 9.0
+print(myfloat)
+myfloat= float(9)
+
+mystring = 'helloworld'
+print(mystring)
+mystring= "hello"
+print(mystring)
+
+
